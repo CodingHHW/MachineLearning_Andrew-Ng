@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 # 机器学习coursera课程(授课教授 Andrew Ng 吴恩达)
 ## 目录
 ### 1. ex1 线性回归
@@ -33,6 +37,11 @@
 - 8.2. sklearn OneClassSVM异常检测
 - 8.3. 正确率和召回率
 - 8.4. 推荐系统 
+<<<<<<< HEAD
 
 项目包含8个作业，每个作业包含**MATLAB**代码，**Python**代码，还有一份课程讲义通过这个课程与项目，可以熟悉机器学习基本思想和算法，使用MATLAB和python编写算法，熟练使用Python机器学习常用工具和框架，**pandas**，**numpy**，**scipy**，**matplotlib**，**seaborn**，以及机器学习著名的库**sklearn**，深度学习库 **Keras**，**Theano**，**TensorFlow**。
 在垃圾邮件分类器中，使用Python进行邮件文本预处理，使用**正则表达式**进行文本匹配，使用**nltk**库处理自然语言
+=======
+项目包含8个作业，每个作业包含MATLAB代码，Python代码，还有一份课程讲义
+通过这个课程与项目，可以熟悉机器学习基本思想和算法，使用MATLAB和python编写算法，熟练使用Python机器学习常用工具和框架，pandas，numpy，scipy，matplotlib，seaborn，以及机器学习著名的库sklearn，深度学习库 Keras，Theano，TensorFlow。
+>>>>>>> origin/master
